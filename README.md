@@ -1,1 +1,7 @@
-# library-management---erpnext-site-app-
+## Library Management
+
+Library Management System
+
+#### License
+
+MIT
